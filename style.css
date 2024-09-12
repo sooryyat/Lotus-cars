@@ -1,0 +1,145 @@
+.col-6{
+    height: 200px;
+   
+    
+}
+body{
+    
+    height: auto;
+    overflow-x: hidden;
+}
+@media(max-width : 1500px){
+    body{
+        overflow-x: hidden;
+    }
+}
+
+
+.my-lot{
+    font-size: 30px;
+    font-weight: 600;
+}
+.col-6:hover{
+    background-color: b;
+}
+.my-loy{
+    right: 90px;
+}
+.explore{
+    height: 50px;
+ 
+}
+.test{
+    height: 50px;
+
+}
+
+
+.navbar-brand{
+    text-align: center;
+}
+/* --------------------------------------------------------------------------------*/
+.main{
+    border: none;
+    width: 100%;
+}
+#re{
+    background-color: black;
+    height: 80px;
+}
+.eletra{
+font-size: 55px;
+}
+@media (max-width : 767px) {
+    .eletra{
+        font-size: 13px;
+    }
+    
+}
+
+.elet{
+    height: 50px;
+    
+}
+#re{
+    background-color: rgb(3, 3, 3);
+    align-items: center;
+    
+}
+.pop{
+    font-size: 40px;
+
+}
+
+.car{
+    height: 600px;
+}
+.car-x{
+    height: 600px;
+}
+@media (max-width:767px){
+    .car-x{
+        margin-top: 500px;
+    }
+}
+@media (max-width :1070px){
+    .qw{
+        height: 1px;
+    }
+}
+.footer-row{
+    border-bottom: solid 2px yellow;
+    height: 150px;
+}
+.footer-can{
+    background-color: black;
+}
+.footer-text{
+    font-size: 60px;
+    color: yellow;
+}
+.footer-row-s{
+    background-color: black;
+}
+.bur{
+    color: yellow;
+    text-decoration: none;
+}
+.bur:hover{
+    color: black;
+}
+.footer-button{
+    border: solid 1px white;
+    background-color: black;
+    border-color: yellow;
+    color: yellow;
+    font-weight: 600;
+}
+.footer-button:hover{
+    color: black;
+    background-color: yellow;
+    transition-delay: 0.2s;
+    font-weight: 600;
+}
+.can-3{
+    background-color: black;
+}
+.can-3 h4{
+    color: yellow;
+}
+.can-3 p{
+    font-weight: 600;
+}
+@media(max-width:772px){
+    .footer{
+        margin-top: 500px;
+    }
+}
+@media(max-width:772px){
+    .footer-logo{
+        width: 50px;
+    }
+}
+.footer-logo{
+    width: 200px;
+}
